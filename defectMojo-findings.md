@@ -1,6 +1,6 @@
 # Viewing and monitoring your Findings
 
-After importing your findings to the DefectMojo UI, you can view and monitor all your findings at one page.
+After [importing](https://defectdojo.github.io/django-DefectDojo/integrations/importing/) your findings to the [DefectMojo UI](https://demo.defectdojo.org/login?next=/finding), you can view and monitor all your findings at one page.
 
 You can perform following functions on the Finding page:
 
