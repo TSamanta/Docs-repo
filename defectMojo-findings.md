@@ -19,7 +19,7 @@ The list of customizations are as follows:
 Select to view only those columns that you would like to view. This helps you the exact details you need to monitor for your Findings.
 
 > [!NOTE]  
-> To get more information about the column headers of the table, refer to the Findings report format page.
+> To get more information about the column headers of the table, refer to the [Generic Findings Import](https://defectdojo.github.io/django-DefectDojo/integrations/parsers/file/generic/) page.
 
 ### Copy current visible rows
 Select  at the top right to copy on your clipboard the all your Findings on your current page.
