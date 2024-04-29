@@ -14,3 +14,38 @@ Select  to [export](https://defectdojo.github.io/django-DefectDojo/integrations/
 You can customize the Findings table to view and monitor the status of your Findings better. configure the Findings table to view the required information at one glance.
  
 The list of customizations are as follows:
+
+### Column Visibility
+Select to view only those columns that you would like to view. This helps you the exact details you need to monitor for your Findings.
+
+> [!NOTE]  
+> To get more information about the column headers of the table, refer to the Findings report format page.
+
+### Copy current visible rows
+Select  at the top right to copy on your clipboard the all your Findings on your current page.
+<Check what’s the limit>
+
+### PDF
+Select to download all your Findings on your current page
+
+### Print
+Select print all your Findings on your current page.
+
+### Search amongst findings
+In this Search field, you can exclusively search amongst all your Findings on your current page and their respective information.
+
+### Page size
+Set your number of Finding rows you would like to view on a single page.
+
+### Bulk edit
+Check the checkboxes of any or all Findings in the first column of the table to select and edit them. 
+
+> [!NOTE]  
+> This feature is available only on the Findings page. For more information, check the Bul Edit Menu section of Adding and Removing Tags section.
+
+### Filter your Findings table column 
+To filter your Findings on your current page tags, select on the top right corner. 
+
+> [!NOTE]  
+> To know more about various filter parameters and tags, refer Filtering under the Tags section.
+
