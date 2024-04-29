@@ -18,7 +18,7 @@ You can customize the Findings table to view and monitor the status of your Find
 The list of customizations are as follows:
 
 ### Column Visibility
-Select ![Column Visiblity](Images/Col-visiblity.png) to view only those columns that you would like to view. This helps you the exact details you need to monitor for your Findings.
+Select the **Column Visibility** button to view only those columns that you would like to view. This helps you the exact details you need to monitor for your Findings.
 
 > [!NOTE]  
 > To get more information about the column headers of the table, refer to the [Generic Findings Import](https://defectdojo.github.io/django-DefectDojo/integrations/parsers/file/generic/) page.
