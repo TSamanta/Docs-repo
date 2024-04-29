@@ -5,7 +5,7 @@ After importing your findings to the DefectMojo UI, you can view and monitor all
 You can perform following functions on the Finding page:
 
 
-## Export Findings report
+## Export your Findings report
 Select  to [export](https://defectdojo.github.io/django-DefectDojo/integrations/exporting/) your current Findings report in Excel or CSV format to view them in your local system.
 
 
