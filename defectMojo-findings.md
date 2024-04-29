@@ -37,7 +37,7 @@ Select the **PDF** button to download all your Findings on your current page
 ### Print your Findings
 Select the **Print** button to print all your Findings on your current page.
 
-### Search amongst your Findings
+### Search among your Findings
 In this **Search** field, you can exclusively search amongst all your Findings on your current page and their respective information.
 
 ### Page size
