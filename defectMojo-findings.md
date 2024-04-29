@@ -31,7 +31,7 @@ Select to download all your Findings on your current page
 ### Print
 Select print all your Findings on your current page.
 
-### Search amongst findings
+### Search amongst your Findings
 In this Search field, you can exclusively search amongst all your Findings on your current page and their respective information.
 
 ### Page size
