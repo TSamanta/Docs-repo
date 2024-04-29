@@ -31,10 +31,10 @@ Select the **Column Visibility** button to view only those columns that you woul
 ### Copy current visible rows
 Select the **Copy** button at the top left to copy all your Findings to the clipboard on your current page.
 
-### PDF
+### Export your findings in PDF format
 Select the **PDF** button to download all your Findings on your current page
 
-### Print
+### Print your Findings
 Select the **Print** button to print all your Findings on your current page.
 
 ### Search amongst your Findings
