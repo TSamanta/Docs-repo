@@ -38,7 +38,7 @@ In this Search field, you can exclusively search amongst all your Findings on yo
 Set your number of Finding rows you would like to view on a single page.
 
 ### Bulk edit
-Check the checkboxes of any or all Findings in the first column of the table to select and edit them. 
+Check the checkboxes to select and edit any or all the Findings. 
 
 > [!Important]  
 > This feature is available only on the Findings page. For more information, refer to  [Bulk Edit Menu section](https://defectdojo.github.io/django-DefectDojo/integrations/exporting/) under "Adding and Removing Tags" section.
