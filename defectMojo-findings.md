@@ -36,7 +36,7 @@ Select the **Print** button to print all your Findings on your current page.
 In this **Search** field, you can exclusively search amongst all your Findings on your current page and their respective information.
 
 ### Page size
-Select the **Page size** button to set your number of Finding rows to view on a single page.
+Select the **Page size** button on the top right corner to set your number of Finding rows to view on a single page.
 
 ### Bulk edit
 Check the checkboxes in the first column of the **All Findings** table to select and edit any or all the Findings. 
@@ -45,7 +45,7 @@ Check the checkboxes in the first column of the **All Findings** table to select
 > This feature is available only on the **Findings** page. For more information, refer to  [Bulk Edit Menu section](https://defectdojo.github.io/django-DefectDojo/integrations/exporting/) under "Adding and Removing Tags" section.
 
 ### Filter your Findings table column 
-To filter your Findings on your current page, select <image> on the top right corner. 
+To filter your Findings on your current page, select ![All Findings](Images/all-findings-icon-small.png) on the top right corner. 
 
 > [!NOTE]  
 > To know more about various filter parameters and tags, refer to [Filtering](https://defectdojo.github.io/django-DefectDojo/integrations/exporting/) under "Tags" section. 
