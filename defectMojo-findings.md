@@ -47,7 +47,7 @@ Select the **Page size** button on the top right corner to set your number of Fi
 Check the checkboxes in the first column of the **All Findings** table to select and edit any or all the Findings. 
 
 > [!Important]  
-> This feature is available only on the **Findings** page. For more information, refer to  [Bulk Edit Menu section](https://defectdojo.github.io/django-DefectDojo/integrations/exporting/) under "Adding and Removing Tags" section.
+> This feature is available only on the **Findings** page. For more information, refer to  [Bulk Edit Menu](https://defectdojo.github.io/django-DefectDojo/integrations/exporting/)  section under "Adding and Removing Tags" section.
 
 ### Filter your Findings table column 
 To filter your Findings on your current page, select ![Filter icon](Images/Filtericon_small_final.png) on the top right corner. 
