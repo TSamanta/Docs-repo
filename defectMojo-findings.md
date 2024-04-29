@@ -41,7 +41,7 @@ Set your number of Finding rows you would like to view on a single page.
 Check the checkboxes of any or all Findings in the first column of the table to select and edit them. 
 
 > [!Important]  
-> This feature is available only on the Findings page. For more information, check the [Bulk Edit Menu section](https://defectdojo.github.io/django-DefectDojo/integrations/exporting/) of [Adding and Removing Tags](https://defectdojo.github.io/django-DefectDojo/integrations/exporting/) section.
+> This feature is available only on the Findings page. For more information, refer to  [Bulk Edit Menu section](https://defectdojo.github.io/django-DefectDojo/integrations/exporting/) under "Adding and Removing Tags" section.
 
 ### Filter your Findings table column 
 To filter your Findings on your current page tags, select on the top right corner. 
