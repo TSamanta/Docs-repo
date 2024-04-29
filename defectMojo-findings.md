@@ -50,7 +50,7 @@ Check the checkboxes in the first column of the **All Findings** table to select
 > This feature is available only on the **Findings** page. For more information, refer to  [Bulk Edit Menu](https://defectdojo.github.io/django-DefectDojo/integrations/exporting/)  section under "Adding and Removing Tags" section.
 
 ### Filter your Findings table column 
-To filter your Findings on your current page, select ![Filter icon](Images/Filtericon_small_final.png) on the top right corner. 
+To filter your Findings on your current page, select ![Filter icon](Images/Filtericon_small_final.png) on the upper right corner. 
 
 > [!NOTE]  
 > To know more about various filter parameters and tags, refer to [Filtering](https://defectdojo.github.io/django-DefectDojo/integrations/exporting/) under "Tags" section. 
