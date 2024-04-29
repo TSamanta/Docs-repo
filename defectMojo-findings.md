@@ -23,13 +23,13 @@ You can customize the Findings table to view and monitor the status of your Find
 The list of customizations are as follows:
 
 ### Column Visibility
-Select the **Column Visibility** button to view only those columns that you would like to view. This helps you the exact details you need to monitor for your Findings.
+Select the **Column Visibility** button to view only those columns that you would like to view. This helps you use the exact details that you need to monitor for your Findings.
 
 > [!NOTE]  
 > To get more information about the column headers of the table, refer to the [Generic Findings Import](https://defectdojo.github.io/django-DefectDojo/integrations/parsers/file/generic/) page.
 
 ### Copy current visible rows
-Select the **Copy** button at the top left to copy all your Findings to the clipboard on your current page.
+Select the **Copy** button at the upper left to copy all your Findings to the clipboard on your current page.
 
 ### Export your findings in PDF format
 Select the **PDF** button to download all your Findings on your current page
@@ -41,7 +41,7 @@ Select the **Print** button to print all your Findings on your current page.
 In this **Search** field, you can exclusively search amongst all your Findings on your current page and their respective information.
 
 ### Page size
-Select the **Page size** button on the top right corner to set your number of Finding rows to view on a single page.
+Select the **Page size** button on the upper right corner to set your number of Finding rows to view on a single page.
 
 ### Bulk edit
 Check the checkboxes in the first column of the **All Findings** table to select and edit any or all the Findings. 
