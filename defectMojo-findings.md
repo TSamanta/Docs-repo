@@ -4,6 +4,11 @@ After [importing](https://defectdojo.github.io/django-DefectDojo/integrations/im
 
 To navigate to the **All Findings** page, go to ![All Findings](Images/all-findings-icon-small.png) > **All Findings**.
 
+![All Findings](Images/All-findings-page.png) 
+*Fig.1: All Findings page*
+
+
+
 You can perform following functions on the Finding page:
 
 
