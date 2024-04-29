@@ -13,12 +13,12 @@ You can perform following functions on the Finding page:
 
 
 ## Export your Findings report
-Select ![export icon](Images/export.png) to [export](https://defectdojo.github.io/django-DefectDojo/integrations/exporting/) your current Findings report in Excel or CSV format to view them in your local system.
+Select ![export icon](Images/export.png) to [export](https://defectdojo.github.io/django-DefectDojo/integrations/exporting/) your current Findings report on a webpage, Excel, or CSV format to view them in your local system.
 
 
 ## Customize the Findings table
 
-You can customize the Findings table to view and monitor the status of your Findings better. configure the Findings table to view the required information at one glance.
+You can customize the Findings table to view and monitor the status of your Findings better. Configure the Findings table to view the required information at one glance.
  
 The list of customizations are as follows:
 
