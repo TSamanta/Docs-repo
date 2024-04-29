@@ -40,7 +40,7 @@ Set your number of Finding rows you would like to view on a single page.
 ### Bulk edit
 Check the checkboxes of any or all Findings in the first column of the table to select and edit them. 
 
-> [!NOTE]  
+> [!Important]  
 > This feature is available only on the Findings page. For more information, check the Bul Edit Menu section of Adding and Removing Tags section.
 
 ### Filter your Findings table column 
