@@ -29,7 +29,7 @@ Select the **Column Visibility** button to view only those columns that you woul
 > To get more information about the column headers of the table, refer to the [Generic Findings Import](https://defectdojo.github.io/django-DefectDojo/integrations/parsers/file/generic/) page.
 
 ### Copy current visible rows
-Select the **Copy** button at the top left to copy on your clipboard the all your Findings on your current page.
+Select the **Copy** button at the top left to copy all your Findings to the clipboard on your current page.
 
 ### PDF
 Select the **PDF** button to download all your Findings on your current page
