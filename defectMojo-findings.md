@@ -2,7 +2,7 @@
 
 After [importing](https://defectdojo.github.io/django-DefectDojo/integrations/importing/) your findings to the [DefectMojo UI](https://demo.defectdojo.org/login?next=/finding), you can view and monitor all your findings at one page.
 
-To navigate to the **All Findings** page, go to ![alt text](http://url/to/img.png) > **All Findings**.
+To navigate to the **All Findings** page, go to ![All Findings](Images/all-findings-icon.png) > **All Findings**.
 
 You can perform following functions on the Finding page:
 
