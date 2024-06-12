@@ -1,6 +1,7 @@
-#API Know-How Test35
+# API Know-How Test35
 
 ## Creates a subscription with addons and coupons.
+```
 curl   po*9//////////////////////////05623/api//subscriptions \
      -u {site_api_key}:\
      -d plan_id="" \
@@ -8,9 +9,9 @@ curl   po*9//////////////////////////05623/api//subscriptions \
      -d auto_collection="" \
      -d addons[id][0]=""\
      -h Content-Type: ""\
-
+```
 ### Sample Response
-​​
+```
 {
     "customer": {
         "allow_direct_debit": false,
@@ -44,3 +45,8 @@ curl   po*9//////////////////////////05623/api//subscriptions \
         "resource_version": 1517505643000,
         "taxability": "taxable",
         "unbilled_charges": 0,
+        "updated_at": 1517505643
+},
+```
+
+## 
