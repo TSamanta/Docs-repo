@@ -1,4 +1,3 @@
-# API Know-How Test35
 
 ## Creates a subscription with addons and coupons.
 ```
@@ -49,4 +48,10 @@ curl   po*9//////////////////////////05623/api//subscriptions \
 },
 ```
 
-## 
+
+### Question 1: Describe the return attributes in the payload above. 
+### Input Parameters
+
+| Parameters         | Description                                                     | Values                      | Data Type | Type     |
+|--------------------|-----------------------------------------------------------------|-----------------------------|-----------|----------|
+| `allow_direct_debit` | Has the value `true` if the customer can pay via Direct Debit.  | `true` <mark>`False`</mark> | Boolean   | Required |
