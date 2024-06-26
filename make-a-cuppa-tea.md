@@ -10,7 +10,7 @@ Do you want to have a cup of tea and not spend a fortune. Meet your Tea Godmothe
 	You want to have a cup of tea in summers- make some Ice tea.\
 	Do you want an energy booster for the winter evenings- pour some extra cream milk to some Darjeeling tea.
         
-* **The true useful “Tea”**:
+* **The truly useful “Tea”**:
 
  	 Do you want something to help you sleep and relax?\
    	 Meet Chamomile tea. 
