@@ -29,9 +29,11 @@ But, I do not know how to make one? I know for sure Starbucks’ Chai tea is not
 
 ## How do I make the cheapest energy beverage?
 
-### Ingredients 
+<details>
+ <summary>### Ingredients </summary>
 1.	1 cup of water
 2.	Loose-leaves tea or teabags of your choice of tea.
+</details>
 
 ### How to prepare your hot cuppa tea?
     I bought a tea bag
