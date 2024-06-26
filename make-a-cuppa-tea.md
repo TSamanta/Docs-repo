@@ -1,7 +1,7 @@
 
 # Make a cup of tea
 
-Do you want to make a cup of tea and not spend a fortune. Meet your Tea Godmother- Chef Chaiwala!
+Do you want to have a cup of tea and not spend a fortune. Meet your Tea Godmother- Chef Chaiwala!
 
 
 **Chef Chaiwala**- Hi! Let me give you some “tea”. If you’re still looking for the cheapest and organic homemade energy booster- meet a cup of Tea.  An energy booster for all seasons. Why?
