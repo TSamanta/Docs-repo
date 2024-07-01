@@ -55,8 +55,7 @@ I love chai and this is how you make a cup of hot tea:
 1. Bring a cup of water to boil.
 2. Let your boiled water rest for one minute.
 3. Add 1 Tsp of loose tea leaves and let it brew for 2 minutes.
-4. Steep you tea bag in the cup for the recommended time in your tea packet.
-5. Use a  tea sieve to filter your tea while pouring it in your favorite cup.
+4. Use a  tea sieve to filter your tea while pouring it in your favorite cup.
 
 </details>
 
